@@ -1,0 +1,69 @@
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+E:\уч\кг\Компьютерная графика\Нова папка\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+C:\Users\Алина\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+C:\Users\shevelinaA\Desktop\кг\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+C:\Users\Daniil\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+C:\Users\romka\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\romka\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\romka\Desktop\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\romka\Desktop\kg\KontrastTesnenFilter\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\romka\Desktop\kg\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\romka\Desktop\kg\KontrastTesnenFilter\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+C:\Users\roman\Desktop\kg\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+C:\Users\roman\Desktop\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe.config
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.exe
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\bin\Debug\KontrastTesnenFilter.pdb
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Form1.resources
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.Properties.Resources.resources
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\Filter.csproj.GenerateResource.Cache
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.exe
+E:\учеба\гип\KontrastTesnenFilter1\KontrastTesnenFilter\obj\Debug\KontrastTesnenFilter.pdb

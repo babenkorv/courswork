@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4c86a15-1016-49c9-b003-b842cfc72aa0" name="Default" comment="" />
+    <ignored path="Filter.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Filter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Filter.sln" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Filter.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1473515687651" expanded="true" signature="6:281" ph="..." />
+                <marker date="1473515687651" expanded="true" signature="313:25036" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="353:25034" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="388:520" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="566:2450" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="2480:6375" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="6405:10333" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="10385:13085" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="11848:12033" ph="/* for (int i = 0; i &lt; Height; i++) ... */" />
+                <marker date="1473515687651" expanded="true" signature="13144:17627" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="17664:19206" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="19270:19302" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="19366:24017" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="19523:19856" ph="/* filter[0, 0] = 0.0625; ... */" />
+                <marker date="1473515687651" expanded="true" signature="20808:21416" ph="/* filter[0, 0] = -1; ... */" />
+                <marker date="1473515687651" expanded="true" signature="23143:23470" ph="/* filter[0, 0] = 1; ... */" />
+                <marker date="1473515687651" expanded="true" signature="24083:24797" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="24858:24879" ph="{...}" />
+                <marker date="1473515687651" expanded="true" signature="24945:25028" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.Designer.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1473515687626" expanded="true" signature="30:18093" ph="{...}" />
+                <marker date="1473515687626" expanded="true" signature="56:18091" ph="{...}" />
+                <marker date="1473515687626" expanded="true" signature="71:147" ph="/// Required designer variable. ... " />
+                <marker date="1473515687626" expanded="true" signature="225:416" ph="/// Clean up any resources being used. ... " />
+                <marker date="1473515687626" expanded="true" signature="472:646" ph="{...}" />
+                <marker date="1473515687626" expanded="true" signature="656:16514" ph="Windows Form Designer generated code" />
+                <marker date="1473515687626" expanded="true" signature="710:873" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1473515687626" expanded="true" signature="916:16494" ph="{...}" />
+                <marker date="1473515687626" expanded="true" signature="3045:3091" ph="/* pictureBox1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="3390:3434" ph="/* groupBox1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="4602:4649" ph="/* radioButton5 ... */" />
+                <marker date="1473515687626" expanded="true" signature="5116:5160" ph="/* groupBox2 ... */" />
+                <marker date="1473515687626" expanded="true" signature="6098:6141" ph="/* textBox5 ... */" />
+                <marker date="1473515687626" expanded="true" signature="6376:6419" ph="/* textBox1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="6653:6696" ph="/* textBox2 ... */" />
+                <marker date="1473515687626" expanded="true" signature="6931:6974" ph="/* textBox9 ... */" />
+                <marker date="1473515687626" expanded="true" signature="7210:7253" ph="/* textBox3 ... */" />
+                <marker date="1473515687626" expanded="true" signature="7488:7531" ph="/* textBox8 ... */" />
+                <marker date="1473515687626" expanded="true" signature="7767:7810" ph="/* textBox4 ... */" />
+                <marker date="1473515687626" expanded="true" signature="8044:8087" ph="/* textBox7 ... */" />
+                <marker date="1473515687626" expanded="true" signature="8321:8364" ph="/* textBox6 ... */" />
+                <marker date="1473515687626" expanded="true" signature="8599:8646" ph="/* radioButton4 ... */" />
+                <marker date="1473515687626" expanded="true" signature="9108:9150" ph="/* button1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="9734:9781" ph="/* radioButton3 ... */" />
+                <marker date="1473515687626" expanded="true" signature="10239:10286" ph="/* radioButton2 ... */" />
+                <marker date="1473515687626" expanded="true" signature="10747:10794" ph="/* radioButton1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="11249:11299" ph="/* openFileDialog1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="11375:11416" ph="/* Before ... */" />
+                <marker date="1473515687626" expanded="true" signature="11685:11726" ph="/* label1 ... */" />
+                <marker date="1473515687626" expanded="true" signature="12280:12321" ph="/* label2 ... */" />
+                <marker date="1473515687626" expanded="true" signature="12878:12925" ph="/* radioButton6 ... */" />
+                <marker date="1473515687626" expanded="true" signature="13384:13431" ph="/* radioButton7 ... */" />
+                <marker date="1473515687626" expanded="true" signature="13892:13939" ph="/* radioButton8 ... */" />
+                <marker date="1473515687626" expanded="true" signature="14397:14444" ph="/* radioButton9 ... */" />
+                <marker date="1473515687626" expanded="true" signature="14905:14947" ph="/* button2 ... */" />
+                <marker date="1473515687626" expanded="true" signature="15360:15400" ph="/* Form1 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form1.resx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.resx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="108" />
+    <option name="y" value="13" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filter (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filter" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filter (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Filter" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form1.cs" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../KontrastTesnenFilter/Filter.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="Default" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../KontrastTesnenFilter/bin/Debug/KontrastTesnenFilter.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../KontrastTesnenFilter/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4c86a15-1016-49c9-b003-b842cfc72aa0" name="Default" comment="" />
+      <created>1480802867541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480802867541</updated>
+      <workItem from="1480802868731" duration="176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="176000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="108" y="13" width="1400" height="820" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25840178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24943988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Filter.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473515687651" expanded="true" signature="6:281" ph="..." />
+            <marker date="1473515687651" expanded="true" signature="313:25036" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="353:25034" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="388:520" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="566:2450" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="2480:6375" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="6405:10333" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="10385:13085" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="11848:12033" ph="/* for (int i = 0; i &lt; Height; i++) ... */" />
+            <marker date="1473515687651" expanded="true" signature="13144:17627" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="17664:19206" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="19270:19302" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="19366:24017" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="19523:19856" ph="/* filter[0, 0] = 0.0625; ... */" />
+            <marker date="1473515687651" expanded="true" signature="20808:21416" ph="/* filter[0, 0] = -1; ... */" />
+            <marker date="1473515687651" expanded="true" signature="23143:23470" ph="/* filter[0, 0] = 1; ... */" />
+            <marker date="1473515687651" expanded="true" signature="24083:24797" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="24858:24879" ph="{...}" />
+            <marker date="1473515687651" expanded="true" signature="24945:25028" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../KontrastTesnenFilter/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473515687626" expanded="true" signature="30:18093" ph="{...}" />
+            <marker date="1473515687626" expanded="true" signature="56:18091" ph="{...}" />
+            <marker date="1473515687626" expanded="true" signature="71:147" ph="/// Required designer variable. ... " />
+            <marker date="1473515687626" expanded="true" signature="225:416" ph="/// Clean up any resources being used. ... " />
+            <marker date="1473515687626" expanded="true" signature="472:646" ph="{...}" />
+            <marker date="1473515687626" expanded="true" signature="656:16514" ph="Windows Form Designer generated code" />
+            <marker date="1473515687626" expanded="true" signature="710:873" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1473515687626" expanded="true" signature="916:16494" ph="{...}" />
+            <marker date="1473515687626" expanded="true" signature="3045:3091" ph="/* pictureBox1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="3390:3434" ph="/* groupBox1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="4602:4649" ph="/* radioButton5 ... */" />
+            <marker date="1473515687626" expanded="true" signature="5116:5160" ph="/* groupBox2 ... */" />
+            <marker date="1473515687626" expanded="true" signature="6098:6141" ph="/* textBox5 ... */" />
+            <marker date="1473515687626" expanded="true" signature="6376:6419" ph="/* textBox1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="6653:6696" ph="/* textBox2 ... */" />
+            <marker date="1473515687626" expanded="true" signature="6931:6974" ph="/* textBox9 ... */" />
+            <marker date="1473515687626" expanded="true" signature="7210:7253" ph="/* textBox3 ... */" />
+            <marker date="1473515687626" expanded="true" signature="7488:7531" ph="/* textBox8 ... */" />
+            <marker date="1473515687626" expanded="true" signature="7767:7810" ph="/* textBox4 ... */" />
+            <marker date="1473515687626" expanded="true" signature="8044:8087" ph="/* textBox7 ... */" />
+            <marker date="1473515687626" expanded="true" signature="8321:8364" ph="/* textBox6 ... */" />
+            <marker date="1473515687626" expanded="true" signature="8599:8646" ph="/* radioButton4 ... */" />
+            <marker date="1473515687626" expanded="true" signature="9108:9150" ph="/* button1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="9734:9781" ph="/* radioButton3 ... */" />
+            <marker date="1473515687626" expanded="true" signature="10239:10286" ph="/* radioButton2 ... */" />
+            <marker date="1473515687626" expanded="true" signature="10747:10794" ph="/* radioButton1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="11249:11299" ph="/* openFileDialog1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="11375:11416" ph="/* Before ... */" />
+            <marker date="1473515687626" expanded="true" signature="11685:11726" ph="/* label1 ... */" />
+            <marker date="1473515687626" expanded="true" signature="12280:12321" ph="/* label2 ... */" />
+            <marker date="1473515687626" expanded="true" signature="12878:12925" ph="/* radioButton6 ... */" />
+            <marker date="1473515687626" expanded="true" signature="13384:13431" ph="/* radioButton7 ... */" />
+            <marker date="1473515687626" expanded="true" signature="13892:13939" ph="/* radioButton8 ... */" />
+            <marker date="1473515687626" expanded="true" signature="14397:14444" ph="/* radioButton9 ... */" />
+            <marker date="1473515687626" expanded="true" signature="14905:14947" ph="/* button2 ... */" />
+            <marker date="1473515687626" expanded="true" signature="15360:15400" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
